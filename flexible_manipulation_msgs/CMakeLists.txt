@@ -29,6 +29,7 @@ set(MSG_FILES
   JointPositionConstraint.msg
   PlannerConfiguration.msg
   RotationKeyFrames.msg
+  GetCartesianPathGoal.msg
 )
 
 set(SRV_FILES
